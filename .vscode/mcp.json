@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "weather-MCP": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["D:\\code\\mcp-servers\\weather\\index.js"]
+    }
+  }
+}
